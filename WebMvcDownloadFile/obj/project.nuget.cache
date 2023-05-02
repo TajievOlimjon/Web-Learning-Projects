@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "06BlnMBwRpkZ+1m2gN5t1Ct+Rvl6ElUbgsK70uZBH/HR7uxnkmxXo9RxXw/Ks28CzyMUxadOg1zoZYeYoL7v9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Developer\\source\\repos\\WebTestProjects\\WebMvcDownloadFile\\WebMvcDownloadFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

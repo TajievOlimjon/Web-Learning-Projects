@@ -1,0 +1,14 @@
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\bin\Debug\net6.0\WebNugetPackeges.deps.json
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\bin\Debug\net6.0\WebNugetPackeges.runtimeconfig.json
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\bin\Debug\net6.0\WebNugetPackeges.dll
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\bin\Debug\net6.0\WebNugetPackeges.pdb
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.AssemblyInfo.cs
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.dll
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\refint\WebNugetPackeges.dll
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.pdb
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\WebNugetPackeges.genruntimeconfig.cache
+C:\Users\Developer\source\repos\WebTestProjects\WebNugetPackeges\obj\Debug\net6.0\ref\WebNugetPackeges.dll
